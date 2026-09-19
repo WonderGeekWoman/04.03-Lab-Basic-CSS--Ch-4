@@ -1,6 +1,9 @@
 h1{
-  border-color: #d3e644;
-  border-style: dashed;
+  padding: 5px;
+  font-family: Arial;
+  font-size: 24px;
+  color: white;
+  background-color: red;
 }
 
 table {
